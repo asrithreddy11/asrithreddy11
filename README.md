@@ -2,4 +2,4 @@
 -  I’m interested in , python, SQL but still a work in progress
 -  I’m currently on the path of learning data science
 -  I’m looking to collaborate on any python and data science projects
--  Reach me on twitter @asrith_reddy_11
+-  Reach me on twitter @asrithreddy_11
